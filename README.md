@@ -1,4 +1,4 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Hello_my_name_is_Adriel_and_i_like_to_program_things_0"></a>Hello, my name is Adriel, and i like programming stuff</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Hello_my_name_is_Adriel_and_i_like_to_program_things_0"></a>Hello, my name is Adriel, and i like to program things</h1>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="Following_the_github_idea_2"></a>Fallowing the github idea</h2>
 <ul>
 <li class="has-line-data" data-line-start="4" data-line-end="5">My current project is <a href="https://github.com/AdrielMarchena/Base">Base</a> and your subprojects (Test games).</br>
