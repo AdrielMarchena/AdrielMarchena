@@ -4,8 +4,7 @@
 <li class="has-line-data" data-line-start="4" data-line-end="5">My current project is <a href="https://github.com/AdrielMarchena/Base">Base</a> and your subprojects (Test games).</br>
  <a href="https://github.com/AdrielMarchena/Base"> <img height="140rem" src="https://github-readme-stats.vercel.app/api/pin/?username=adrielmarchena&repo=Base&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/></a>
  </li>
-<li class="has-line-data" data-line-start="5" data-line-end="6">I’m currently learning mostly C++ and OpenGL (Computer graphics), but sometimes i do something with Javascript.</li>
-<li class="has-line-data" data-line-start="6" data-line-end="8">I would really like to do something in computer graphics, even tho i don’t know much about it, but, i’m not limited to that, i would like to do things in many other areas such as web development, desktop application and so on.</li>
+<li class="has-line-data" data-line-start="5" data-line-end="6">I’m currently learning mostly C++ and OpenGL (Graphic API), but sometimes i do something with Javascript.</li>
 </ul>
 <h2 class="code-line" data-line-start=8 data-line-end=9 ><a id="Contact_8"></a>Contact</h2>
 <ul>
