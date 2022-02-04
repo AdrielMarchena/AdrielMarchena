@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Hello_my_name_is_Adriel_0"></a>Hello, my name is Adriel</h1>
-<h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="Following_the_github_idea_2"></a>Fallowing the github idea</h2>
+<h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="Following_the_github_idea_2"></a>Following the github idea</h2>
 <ul>
 <li class="has-line-data" data-line-start="4" data-line-end="5">My current project is <a href="https://github.com/AdrielMarchena/Base">Base</a> </br>
  <a href="https://github.com/AdrielMarchena/Base"> <img height="140rem" src="https://github-readme-stats.vercel.app/api/pin/?username=adrielmarchena&repo=Base&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/></a>
